@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+lightgbm
+pmdarima
+statsmodels
+joblib
+streamlit
+plotly
+pyarrow
+fastparquet
